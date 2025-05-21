@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shozha</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineer+student)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EDF6F7&width=435&lines=Software+Engineer+student+at+KFU)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shozha&label=Profile%20views&color=0e75b6&style=flat" alt="shozha" /> </p>
 
 - 🔭 I’m currently working on [ITIS-Event-Horizon](https://github.com/Programmer-s-Evil-Inc/ITIS-Event-Horizon.git)
