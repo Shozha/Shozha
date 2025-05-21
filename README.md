@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shozha</h1>
-<h3 align="center">I have been learning programming for 7 month already.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+engineer+student)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shozha&label=Profile%20views&color=0e75b6&style=flat" alt="shozha" /> </p>
 
