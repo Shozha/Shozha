@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreev Sergey</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EDF6F7&width=435&lines=Software+Engineer+student+at+KFU+ITIS " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EDF6F7&width=435&lines=Software+Engineer+student+at+KFU+ITIS+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shozha&label=Profile%20views&color=0e75b6&style=flat" alt="shozha" /> </p>
 
 - 🔭 I’m currently working on my new project called "A service for finding internships and open source projects"
