@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **sergeyandreeiav20@gmail.com**
 
+- One of my project's on GitLab <a href="https://gitlab.com/checkmycode/checkmycode">CheckMyCode<a/> - учебная система взаимного peer‑review кода, в которой студенты проверяют решения друг друга по заданным критериям, оставляют построчные комментарии, а платформа автоматически агрегирует оценки и помогает преподавателю контролировать качество и активность проверки.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/kuraig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kuraig" height="30" width="40" /></a>
